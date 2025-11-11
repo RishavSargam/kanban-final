@@ -49,3 +49,10 @@ npm run test
 
 ## Notes
 - Tests are basic smoke tests to validate keyboard interactions. Add more comprehensive tests for production readiness.
+
+
+Author
+
+Rishav Raj
+   -rishavani24@gmail.com
+   - github.com/RishavSargam
