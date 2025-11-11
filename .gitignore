@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.build/
+.vscode/
+.env
+.DS_Store
+storybook-static/
+coverage/
+/npm-debug.log
+yarn-error.log
+/*.zip
